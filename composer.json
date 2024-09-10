@@ -1,12 +1,12 @@
 {
-    "name": "keepsuit/laravel-opentelemetry",
+    "name": "carvinglabs/laravel-opentelemetry",
     "description": "OpenTelemetry integration for laravel",
     "keywords": [
-        "keepsuit",
+        "carvinglabs",
         "laravel",
         "opentelemetry"
     ],
-    "homepage": "https://github.com/keepsuit/laravel-opentelemetry",
+    "homepage": "https://github.com/carvinglabs/laravel-opentelemetry",
     "license": "MIT",
     "authors": [
         {
