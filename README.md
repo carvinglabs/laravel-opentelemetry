@@ -14,7 +14,7 @@ This package allow to integrate OpenTelemetry in a Laravel application.
 You can install the package via composer:
 
 ```bash
-composer require keepsuit/laravel-opentelemetry
+composer require carvinglabs/laravel-opentelemetry
 ```
 
 You can publish the config file with:
